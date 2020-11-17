@@ -363,6 +363,10 @@ Kirby::plugin('timoetting/kirbybuilder', [
       'builder.clone' => 'Dupliquer',
       'builder.preview' => 'Aperçu',
     ],
+    'fa' => [
+      'builder.clone' => 'ایجاد کپی',
+      'builder.preview' => 'پیش نمایش',
+    ],
     'de' => [
       'builder.clone' => 'Duplizieren',
       'builder.preview' => 'Vorschau',
